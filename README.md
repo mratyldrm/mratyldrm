@@ -13,5 +13,5 @@
 
 Repository    | Url 
 ------------- |:-------------:|
-[terraform-training-solutions] | [Link](https://github.com/mratyldrm/terraform-training-solutions)
+[test] | [Link](https://github.com/mratyldrm/test)
 </details>
