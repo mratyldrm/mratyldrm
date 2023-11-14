@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Murat YILDIRIM!
 
-<!--
-**mratyldrm/mratyldrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LinkedIn](www.linkedin.com/in/murat-yldrm)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+<summary>
+
+
+### DevOps
+</summary>
+
+Repository    | Url 
+------------- |:-------------:|
+[terraform-training-solutions] | [Link](https://github.com/mratyldrm/terraform-training-solutions)
+</details>
