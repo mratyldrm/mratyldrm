@@ -1,6 +1,6 @@
-### Hi there, I'm Murat YILDIRIM!
+### Hi, I'm Murat YILDIRIM!
 
-![LinkedIn](www.linkedin.com/in/murat-yldrm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/murat-yldrm)
 
 
 
